@@ -4,6 +4,8 @@
 
 ## Introduction
 
+Hello world!
+
 ## Functions, Variables
 
 ## Conditionals
